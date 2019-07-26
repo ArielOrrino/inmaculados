@@ -1,0 +1,187 @@
+{
+  "state": "collectionDay",
+  "collectionEndTime": "20190725T223510.297Z",
+  "clan": {
+    "tag": "#PVC2PU8Q",
+    "name": "inmaculados",
+    "badgeId": 16000166,
+    "clanScore": 1543,
+    "participants": 19,
+    "battlesPlayed": 56,
+    "wins": 28,
+    "crowns": 0
+  },
+  "participants": [
+    {
+      "tag": "#JGVJJ8YG",
+      "name": "Joaquin",
+      "cardsEarned": 1400,
+      "battlesPlayed": 3,
+      "wins": 2,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#890VC9RQG",
+      "name": "delfi",
+      "cardsEarned": 1680,
+      "battlesPlayed": 3,
+      "wins": 3,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#98CQPYPV",
+      "name": "Alex",
+      "cardsEarned": 1189,
+      "battlesPlayed": 3,
+      "wins": 1,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#2RPGV2R8G",
+      "name": "Ari",
+      "cardsEarned": 1189,
+      "battlesPlayed": 3,
+      "wins": 1,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#80JRCCP0J",
+      "name": "rodeiro puto",
+      "cardsEarned": 1487,
+      "battlesPlayed": 3,
+      "wins": 2,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#2LYCJG222",
+      "name": "Nowskyj",
+      "cardsEarned": 1487,
+      "battlesPlayed": 3,
+      "wins": 2,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#8Y2Y9VUPQ",
+      "name": "KST",
+      "cardsEarned": 1785,
+      "battlesPlayed": 3,
+      "wins": 3,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#PP2U8R8C",
+      "name": "#teo",
+      "cardsEarned": 1400,
+      "battlesPlayed": 3,
+      "wins": 2,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#YQG02JGV",
+      "name": "byViruZz",
+      "cardsEarned": 1400,
+      "battlesPlayed": 3,
+      "wins": 2,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#PR20YUQ29",
+      "name": "CarlitoxV95",
+      "cardsEarned": 840,
+      "battlesPlayed": 3,
+      "wins": 0,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#89GGJRYV0",
+      "name": "Derefico",
+      "cardsEarned": 891,
+      "battlesPlayed": 3,
+      "wins": 0,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#8C9LY9YL8",
+      "name": "Fruitsalad",
+      "cardsEarned": 891,
+      "battlesPlayed": 3,
+      "wins": 0,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#PVPJP0UG8",
+      "name": "jjulietar",
+      "cardsEarned": 1120,
+      "battlesPlayed": 3,
+      "wins": 1,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#2JQJYVR2C",
+      "name": "perrequetengue",
+      "cardsEarned": 1487,
+      "battlesPlayed": 3,
+      "wins": 2,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#2V20LRC8Y",
+      "name": "pokemon go",
+      "cardsEarned": 786,
+      "battlesPlayed": 3,
+      "wins": 0,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#2YYLLUG0L",
+      "name": "mainkra",
+      "cardsEarned": 892,
+      "battlesPlayed": 2,
+      "wins": 1,
+      "collectionDayBattlesPlayed": 2,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#2L8PJ2GUL",
+      "name": "Pity New Cuenta",
+      "cardsEarned": 1400,
+      "battlesPlayed": 3,
+      "wins": 2,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#8JGQLJQ8L",
+      "name": "Gonzalo",
+      "cardsEarned": 1487,
+      "battlesPlayed": 3,
+      "wins": 2,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    },
+    {
+      "tag": "#Y280GYP0G",
+      "name": "BOUZA",
+      "cardsEarned": 1400,
+      "battlesPlayed": 3,
+      "wins": 2,
+      "collectionDayBattlesPlayed": 3,
+      "numberOfBattles": 3
+    }
+  ]
+}
